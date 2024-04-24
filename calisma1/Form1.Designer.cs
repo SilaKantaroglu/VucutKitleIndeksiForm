@@ -1,5 +1,5 @@
 ﻿
-namespace calisma1
+namespace VucutKitleIndeksiForm
 {
     partial class Form1
     {
